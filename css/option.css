@@ -26,8 +26,21 @@ input[type="checkbox"] {
     align-content: center;
 }
 
+.ad {
+    border: solid 2px rgb(156, 156, 156);
+    background-color: #fafbf9;
+    border-radius: 10px;
+    width: 363px;
+    margin: 0 auto;
+}
+
+.ad > a {
+    text-align: center;
+    display: block;
+    padding: 20px;
+}
+
 .contents {
-    margin-top: 120px;
     padding: 15px;
 }
 
